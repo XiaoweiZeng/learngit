@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaaaa  d
 second is senconder
 
 d
+=======
+aaaaaaaaaaaaaaaaaa  c
+second is senconder
+
+c
+>>>>>>> 834e192fa10b03f99563fbdff314b5105c77091a
 
